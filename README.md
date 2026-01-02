@@ -1,6 +1,4 @@
-# Apunte de Clase: Vectores Geométricos
-
-Este apunte sintetiza los conceptos fundamentales sobre vectores geométricos, basado en la transcripción de las clases de Álgebra Lineal.
+# Vectores Geométricos
 
 ---
 
